@@ -1,0 +1,10 @@
+{
+  "package": "yezhiyi9670.calmparticles.mixins",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "client": [
+    "MixinParticleManager"
+  ]
+}
