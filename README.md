@@ -4,7 +4,7 @@ Calm Down, Particles!
 [![][cf_downloads]][cf_link] ![][license]  
 ![][mod_version] ![][supported_mc_version]![][lts_mc_version] [![][modloader]][forge_link] [![][mixin]][mixin_link]
 
-[cf_downloads]: https://cf.way2muchnoise.eu/full_calm-down-particles_downloads.svg
+[cf_downloads]: http://cf.way2muchnoise.eu/full_calm-down-particles_downloads.svg
 [cf_link]: https://www.curseforge.com/minecraft/mc-mods/calm-down-particles
 [mod_version]: https://img.shields.io/badge/Mod%20Version-1.0-green.svg?style=flat-square
 [supported_mc_version]: https://img.shields.io/badge/MC%20Version-1.16.1-darkblue.svg?style=flat-square
